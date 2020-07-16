@@ -6,7 +6,7 @@
 
 <div align=center>
 	
- <h4> Hello world! 🌎</h4> 
+ <h2> Hello world! 🌎</h2> 
 자연스럽게 스며드는 퍼블리셔 신혜리입니다🙂
 
 
